@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.s0k0s.aicoach",
+    "sha256_cert_fingerprints": [
+      "31:C9:B5:AE:31:3A:47:E1:A9:02:CC:D4:95:EB:83:34:78:AC:F0:F3:62:3B:4D:10:75:0C:F9:55:D9:DE:3B:4A"
+    ]
+  }
+}]
